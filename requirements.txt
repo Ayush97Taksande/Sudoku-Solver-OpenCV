@@ -129,6 +129,7 @@ flask==2.2.5
 altair==4.2.2
 pillow==9.3.0
 scikit-image==0.19.3
+tensorflow=2.10.0
 
 
 
